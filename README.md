@@ -1,9 +1,14 @@
 # exercicios-python-orientacao-objetos
  Exercícios relacionados ao curso de Python orientado a objetos da Alura
+ <p><br></p>
+ 
+ Descrição do projeto:
+ 
+ Criação de uma classe cujo objeto recebe os dados bancários de um cliente. A manipulação desses dados bancários, tais como operações de saque, depósito, transferência e extrato de saldo são realizadas por métodos atrelados a classe.
  
 <p><br></p>
 <p><span style="font-size: 18px;">O que aprendi:</span></p>
-<p><br></p>
+<p></p>
 <ul>
     <li>Diferen&ccedil;a entre algoritmo procedural e algoritmo orientado a objeto;</li>
     <li>Cria&ccedil;&atilde;o de dicion&aacute;rios;</li>
